@@ -1,4 +1,4 @@
-# ISE 291 Project
+# Video Game Sales Analysis
 ## Main Objectives
 The main objective is to learn about how different factors affect video game reception (i.e. whether the video games has been well accepted or not)
 ## Dataset
